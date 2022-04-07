@@ -7,6 +7,7 @@ SetUp:
 5. Add the WindMap texture to its designated place. 
 
 This shader is mainly based on Daniel Ilett's "Breath of the Wild" Grass Shader (https://www.youtube.com/watch?v=MeyW_aYE82s).
+
 It also includes parts of Minions Art Geometry Grass Shader for URP (https://www.patreon.com/posts/geometry-grass-47447321).
 
 This shader only works with the URP-Engine. Make sure it is active in your Unity project. Else, the Grass will be purple and wont work.
