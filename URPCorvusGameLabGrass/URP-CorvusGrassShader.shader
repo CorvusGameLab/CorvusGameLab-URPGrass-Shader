@@ -4,7 +4,7 @@
 // It also includes parts of Minions Art Geometry Grass Shader for URP
 // https://www.patreon.com/posts/geometry-grass-47447321
 
-// Since it didn't include the features I needed, I edited Daniell Illett's shader and added additional things,
+// Since it didn't include the features I needed, I edited Daniel Illett's shader and added additional things,
 // to fit my procedural terrain generation, which resulted in this shader.
 // As a beginner in shader coding it took me a lot of time, which I would like to spare you. 
 // If you want to thank me, I would be happy about a subscription to my youtube channel.
