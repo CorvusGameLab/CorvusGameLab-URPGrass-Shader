@@ -4,7 +4,9 @@ SetUp:
 2. Make sure you are using the Universal Render Pipeline (URP) in your project 
 3. Drag the folder into your projects asset folder
 4. Rightclick on the URP-CorvusGrassShader and create a new material.
-5. Add the WindMap texture to its designated place. 
+5. Assign the material to your Mesh (Make sure your mesh can be assigned two materials, otherwise the map will be invisible). 
+6. Add the WindMap texture to its designated place.
+7. Assign the PlayerInteraction Script to your Player (Duh).  
 
 This shader is mainly based on Daniel Ilett's "Breath of the Wild" Grass Shader (https://www.youtube.com/watch?v=MeyW_aYE82s).
 
